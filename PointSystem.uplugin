@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.3",
+	"FriendlyName": "PointSystem",
+	"Description": "A Simple Point System",
+	"Category": "Other",
+	"CreatedBy": "Space_Mex",
+	"CreatedByURL": "https://github.com/spacemex",
+	"DocsURL": "https://github.com/spacemex/PointSystem/wiki",
+	"MarketplaceURL": "https://github.com/spacemex/PointSystem",
+	"SupportURL": "https://github.com/spacemex/PointSystem/issues",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PointSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}
